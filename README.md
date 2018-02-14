@@ -25,3 +25,6 @@ https://drive.google.com/open?id=0B2sMxCzPiTVkRUV0Rks0VnpILXc
 
 --waste_management.sql: Exported sql file of the database. Can be imported to get the database.
 https://drive.google.com/open?id=0B2sMxCzPiTVkWU5wX2xpdmtVMnM
+
+create a database with name: waste management 
+all database access information is available in dbase.php and appropriate changes can be made.
